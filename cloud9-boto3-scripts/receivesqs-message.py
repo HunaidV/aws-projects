@@ -7,7 +7,7 @@ sqs_client = boto3.client("sqs")
 
 def receive_message():
     response = sqs_client.receive_message(
-        QueueUrl='https://sqs.us-east-1.amazonaws.com/736908875385/boto3messagesqs',
+        QueueUrl='https://sqs.us-east-1.amazonaws.com/XXXXXX/boto3messagesqs', #change your QueueURL
         MaxNumberOfMessages=3,
         WaitTimeSeconds=10,
     )
