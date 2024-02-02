@@ -1,16 +1,13 @@
-
-   ___ _      ______   ___  ___  ____     _________________
-  / _ | | /| / / __/  / _ \/ _ \/ __ \__ / / __/ ___/_  __/
- / __ | |/ |/ /\ \   / ___/ , _/ /_/ / // / _// /__  / /   
-/_/ |_|__/|__/___/__/_/  /_/|_|\____/\___/___/\___/ /_/    
-                /___/                                      
-
+         ___        ______     
+        / \ \      / / ___|   
+       / _ \ \ /\ / /\___ \  
+      / ___ \ V  V /  ___) | 
+     /_/   \_\_/\_/  |____/   
  ----------------------------------------------------------------- 
 
 
-Hi there! Welcome to AWS Cloud9!
+Hi there! Welcome to AWS Projects!
 
-To get started, create some files, play with the terminal,
-or visit https://docs.aws.amazon.com/console/cloud9/ for our documentation.
+To get started, clone the repository as it contains interesting day-to-day tasks which I have used in my Job
+Happy Coding
 
-Happy coding!
