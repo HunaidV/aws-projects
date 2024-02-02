@@ -7,10 +7,8 @@
 
 
 ## export query results to same s3 bucket
-
-'''
+<code>
 EXPORT DATA WITH CONNECTION '<connection-name'>
 OPTIONS(uri="s3://S3 bucket name/exports/*", format="CSV")
 AS <your sql query>
-
-'''
+</code>
